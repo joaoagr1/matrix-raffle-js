@@ -1,0 +1,47 @@
+.mae{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+  }
+  .green-cell {
+    background-color: rgb(116, 246, 116);
+    color: white;
+    border: black 1px;
+  }
+
+  .red-cell {
+    background-color: coral;
+    color: white;
+    border: black 1px;
+  }
+
+  .matriz {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  h1 {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+
+  table,
+  th,
+  td {
+    padding: 10px;
+    background-color: gainsboro;
+    font: black;
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 0 auto;
+    align-items: center;
+  }
