@@ -2,6 +2,9 @@
 
 This repository contains a matrix manipulation web application developed for a college assignment. The program generates a random matrix of 100 elements, displays it, colors the even numbers in green, the prime numbers in red, and creates two additional matrices based on these criteria.
 
+![print](print.png)
+
+
 ## Features
 
 - Random Matrix Generation
